@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telecome_Company", "Telecome_Company\Telecome_Company.csproj", "{FECB0D79-2867-4797-B014-325278C2C666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECB0D79-2867-4797-B014-325278C2C666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECB0D79-2867-4797-B014-325278C2C666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECB0D79-2867-4797-B014-325278C2C666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECB0D79-2867-4797-B014-325278C2C666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB474602-2A14-452B-9227-692BBB9C4031}
+	EndGlobalSection
+EndGlobal

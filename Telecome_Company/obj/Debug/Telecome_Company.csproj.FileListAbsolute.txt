@@ -1,0 +1,7 @@
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\bin\Debug\Telecome_Company.exe.config
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\bin\Debug\Telecome_Company.exe
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\bin\Debug\Telecome_Company.pdb
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\obj\Debug\Telecome_Company.csproj.AssemblyReference.cache
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\obj\Debug\Telecome_Company.csproj.CoreCompileInputs.cache
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\obj\Debug\Telecome_Company.exe
+I:\ItI\iti 2022\C#\Projects\Telecome Project\Telecome_Company\Telecome_Company\obj\Debug\Telecome_Company.pdb
